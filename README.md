@@ -13,6 +13,7 @@
     <br>
     <strong>Figure 2:</strong> Overall Framework of DCSF-KD.
 </p>
+You can see what you need in [/configs/distill/mmdet/dcsfkd/](https://github.com/LinY-ct/DCSF-KD/tree/master/configs/distill/mmdet/dcsfkd)
 
 ## License
 
