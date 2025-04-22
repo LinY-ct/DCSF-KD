@@ -1,6 +1,6 @@
 # DCSF-KD: Dynamic Channel-wise Spatial Feature Knowledge Distillation for Object Detection
 
-
+## Method
 
 <p align="center" id="fig-workflow">
     <img src="resources/vischannel.png" width="1000"> 
@@ -16,6 +16,20 @@
 You can see what you need in https://github.com/LinY-ct/DCSF-KD/tree/master/configs/distill/mmdet/dcsfkd and  
 
 https://github.com/LinY-ct/DCSF-KD/tree/master/mmrazor/models/losses/dcsfkd_loss.py 
+
+## Results
+
+<p align="center" id="fig-workflow">
+    <img src="resources/homogeneous.png" width="1000"> 
+    <br>
+    <strong>Table 1:</strong> Results on the MS COCO dataset with homogeneous teacher detectors.
+</p>
+
+<p align="center" id="fig-workflow">
+    <img src="resources/heterogeneous.png" width="1000"> 
+    <br>
+    <strong>Table 2:</strong> Results on the MS COCO dataset with heterogeneous teacher detectors. 
+</p>
 
 ## License
 
